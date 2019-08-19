@@ -1,0 +1,24 @@
+<resources>
+	<!-- Movie Details-->
+	<string name="app_name">Popular Movie App </string>
+	<string name="description">Movie</string>
+	<string name="title_network_alert">Network Error</string>
+	<string name="message_network_alert">Connection is Fail</string>
+	<string name="release_date_error"> Date Missing</string>
+	<string name="share_trailer">Share trailer</string>
+	<string name="add_to_favorites"> favorite</string>
+	<string name="remove_from_favorites">Remove  favorite</string>
+	<string name="watch_trailer">See trailer</string>
+
+	<!-- Menu Strings-->
+	<string name="top_rated">Top rated</string>
+	<string name="favorites">Favorite</string>
+	<string name="popular">Popular Movie</string>
+	<string name="sort_by">Sorted by</string>
+
+
+
+	<!--Rating-->
+	<string name="movie_user_rating">Ratinng : %1$s/ 10</string>
+
+</resources>
